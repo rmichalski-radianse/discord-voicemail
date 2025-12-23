@@ -1,0 +1,5 @@
+.env
+processed.sqlite3
+rc_subscription.json
+__pycache__/
+*.pyc
